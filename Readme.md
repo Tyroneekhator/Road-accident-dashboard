@@ -26,4 +26,4 @@ Clients wants to create a Road Accident Dashboard for year 2021 and 2022 so that
 
 ### Dashboard
 - please find all analyzations in the excel workbook.
-<img src="C:\Users\ekhat\OneDrive\Desktop\Road accident dashboard\Screenshot (430).png" />
+<img src="Screenshot (430).png" />
